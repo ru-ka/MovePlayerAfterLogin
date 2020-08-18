@@ -1,4 +1,4 @@
-# MovePlayerAfterLogin
+# [MovePlayerAfterLogin](https://www.spigotmc.org/resources/move-player-after-login.82873/)
 A very simple plugin that changes the player's server after AuthMe login
 
 ## Introduction
