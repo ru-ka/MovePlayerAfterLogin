@@ -12,7 +12,7 @@ Per installare il plugin è sufficiente mettere il file nella cartella plugins d
 
 Il plugin al primo avvio genera nella cartella dall'omonimo nome [del plugin] un file `config.yml` che si dovrebbe palesare così:
 
-```toml
+```yaml
 server_name: survival
 ```
 
